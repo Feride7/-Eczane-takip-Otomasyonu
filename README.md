@@ -1,2 +1,2 @@
 # -Eczane-takip-Otomasyonu
-C_programming
+C ile programlanmış bir eczane otomasyonudur.
